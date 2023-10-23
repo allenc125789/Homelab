@@ -5,3 +5,10 @@ As a part of my homelab, for the documentation I want to upload it to github for
 ## Hosted Services
 
 **Server Management**
+
+* [Bitwarden]() - A very simple static homepage for your server.
+* [Proxmox]() - A centralized service delivery platform for containerized apps.
+* [OPNsense]() - A container-based solution for automating Docker container base image updates.
+* [OpenVPN]() - Self-hosted VPN (*optional:* or use alternative service, e.g. (OpenVPN)) or [Tailscale](https://tailscale.com/).
+* [Netbox]() - A cron monitoring tool written in Python & Django.
+* [NetACBackup]() - My own script for NAS based backup management and storage.
