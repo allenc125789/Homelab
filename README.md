@@ -17,9 +17,9 @@ As a part of my homelab, for the documentation I want to upload it to github for
 
 * [OPNsense](https://opnsense.org/) - Open source router software acting as a DHCP and DNS server.
 * [OpenVPN](https://github.com/OpenVPN/openvpn) - Self-hosted VPN.
-* [FreeDNS](https://freedns.afraid.org) - A DDNS service to track my home's dynamic public IP.
+* [FreeDNS](https://freedns.afraid.org) - A third party DDNS service to track my home's dynamic public IP.
 
-
+## Hardware
 
 
 
