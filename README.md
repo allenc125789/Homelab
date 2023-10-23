@@ -19,6 +19,8 @@ As a part of my homelab, for the documentation I want to upload it to github for
 * [OpenVPN](https://github.com/OpenVPN/openvpn): Self-hosted VPN.
 * [FreeDNS](https://freedns.afraid.org) - A third party DDNS service to track my home's dynamic public IP.
 
+Most of these services are self hosted and virtualized environment in Proxmox. Most of my services are like this for a few security based aspects: Self hosted services reduces the risk of hacks and data-leaks while data is traversing to an off-site infrastructure, and possible bad actors from accessing your private files. Virtualized environments reduce cost of needing multiple systems for multiple platforms, and also increase my overall security by isolation of individual services.
+
 ## -Hardware
 
 Currently my central server does most of the magic as a Proxmox Hypervisor. It consists of a 6 core CPU, 12G DDR3 RAM, and two 1T hard drives. There are some limitations with this setup, such as the motherboard has no IOMMU support, which makes pass-through of PCI(e) devices impossible for projects such as a GPU passthrough for a gaming VM, or a Network Card passthrough for my virtual router. Another limitation I face is the number of VM's I can safley make without over-use of resources. I'd be limited to 6 VM's total with 1 core per VM. 
