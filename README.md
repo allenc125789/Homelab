@@ -7,8 +7,15 @@ As a part of my homelab, for the documentation I want to upload it to github for
 **Server Management**
 
 * [Bitwarden](https://github.com/bitwarden/server) - A self-hosted password manager and vault.
-* [Proxmox](https://www.proxmox.com/en/) - A centralized service delivery platform for containerized apps.
-* [OPNsense](https://opnsense.org/) - A container-based solution for automating Docker container base image updates.
-* [OpenVPN](https://github.com/OpenVPN/openvpn) - Self-hosted VPN (*optional:* or use alternative service, e.g. (OpenVPN)) or [Tailscale](https://tailscale.com/).
-* [Netbox](https://github.com/netbox-community/netbox) - A cron monitoring tool written in Python & Django.
+* [Proxmox](https://www.proxmox.com/en/) - A KVM based Debian hypervisor.
+
+**File storage & Sharing**
+
 * [NetACBackup](https://github.com/allenc125789/NetACBackup.sh) - My own script for NAS based backup management and storage.
+
+**Networking**
+
+* [OPNsense](https://opnsense.org/) - Open source router software acting as a DHCP and DNS server.
+* [OpenVPN](https://github.com/OpenVPN/openvpn) - Self-hosted VPN.
+
+
