@@ -23,7 +23,7 @@ Most of these services are self hosted and virtualized in a Proxmox environment.
 
 ## -Hardware
 
-Currently my central server does most of the magic as a Proxmox Hypervisor. It consists of a 6 core CPU, 12G DDR3 RAM, and two 1T hard drives. There are some limitations with this setup, such as the motherboard has no IOMMU support, which makes pass-through of PCI(e) devices impossible for projects such as a GPU passthrough for a gaming VM, or a Network Card passthrough for my virtual router. Another limitation I face is the number of VM's I can safley make without over-use of resources. I'd be limited to 6 VM's total with 1 core per VM. 
+Currently my central server does most of the magic as a Proxmox Hypervisor. It consists of a 6 core CPU, 12G DDR3 RAM, and two 1T hard drives. There are some limitations with this setup, such as the motherboard has no IOMMU support, which makes pass-through of PCI(e) devices impossible for projects such as a GPU passthrough for a gaming VM, or a Network Card passthrough for my virtual router. Another limitation I face is the number of VM's I can safley make without over-use of resources. I'd be limited to 6 VM's total with 1 core per VM. With these limitations in mind, I can make the most out of my system.
 
 All of my homelab's devices and VM's are listed here, and via the pictures below (Documentation tracked and logged via Netbox):
 
@@ -32,6 +32,8 @@ All of my homelab's devices and VM's are listed here, and via the pictures below
 **Virtual Machines**
 
 ## -Network
+
+Designing my network was made extremley easy with Netbox. I decided to go with a 26/ subent, as it (1) will allow growth if I decide to add more devices to my network without being too unessesarily large
 
 **Network Map**
 
