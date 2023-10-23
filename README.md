@@ -19,7 +19,7 @@ As a part of my homelab, for the documentation I want to upload it to github for
 * [OpenVPN](https://github.com/OpenVPN/openvpn): Self-hosted VPN.
 * [FreeDNS](https://freedns.afraid.org) - A third party DDNS service to track my home's dynamic public IP.
 
-Most of these services are self hosted and virtualized environment in Proxmox. Most of my services are like this for a few security based aspects: Self hosted services reduces the risk of hacks and data-leaks while data is traversing to an off-site infrastructure, and possible bad actors from accessing your private files. Virtualized environments reduce cost of needing multiple systems for multiple platforms, and also increase my overall security by isolation of individual services.
+Most of these services are self hosted and virtualized in a Proxmox environment. My system is like this for a few security based aspects: Self hosted services reduce the risk of hacks and data-leaks while data is traversing to an off-site infrastructure, and possible bad actors from accessing your private files. Virtualized environments reduce cost of needing multiple systems for multiple platforms, and also increase my overall security by isolation of individual services.
 
 ## -Hardware
 
@@ -27,6 +27,11 @@ Currently my central server does most of the magic as a Proxmox Hypervisor. It c
 
 All of my homelab's devices and VM's are listed here, and via the pictures below (Documentation tracked and logged via Netbox):
 
-**Devies and Virtual Machines**
+**Devies**
+
+**Virtual Machines**
 
 ## -Network
+
+**Network Map**
+
