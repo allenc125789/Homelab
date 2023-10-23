@@ -4,16 +4,16 @@ As a part of my homelab, for the documentation I want to upload it to github for
 
 ## Hosted Services & Software
 
-**Server Management**
+**- Server Management**
 
 * [Bitwarden](https://github.com/bitwarden/server) - A self-hosted password manager and vault.
 * [Proxmox](https://www.proxmox.com/en/) - A KVM based Debian hypervisor.
 
-**File storage & Sharing**
+**- File storage & Sharing**
 
 * [NetACBackup](https://github.com/allenc125789/NetACBackup.sh) - My own script for NAS based backup management and storage.
 
-**Networking**
+**- Networking**
 
 * [OPNsense](https://opnsense.org/) - Open source router software acting as a DHCP and DNS server.
 * [OpenVPN](https://github.com/OpenVPN/openvpn) - Self-hosted VPN.
