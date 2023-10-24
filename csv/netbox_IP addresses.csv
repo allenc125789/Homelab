@@ -1,0 +1,10 @@
+IP Address,VRF,Status,Assigned,Parent
+192.168.0.1/26,Global,Active,6,home-ok-ro01p
+192.168.0.2/26,Global,Active,5,home-ok-ro02p
+192.168.0.5/26,Global,Active,7,home-ok-sw01p
+192.168.0.11/26,Global,Active,10,home-ok-sc01p
+192.168.0.20/26,Global,Active,1,home-ok-hv01p
+192.168.0.21/26,Global,Active,1,home-ok-bw01p
+192.168.0.22/26,Global,Active,3,home-ok-na01p
+192.168.0.23/26,Global,Active,4,home-ok-nb01p
+192.168.0.25/26,Global,Active,2,home-ok-de01p
