@@ -38,7 +38,7 @@ Currently my central server does most of the magic as a Proxmox Hypervisor. It c
 
 All of my homelab's devices and VM's are listed here, and via the pictures below (Documentation tracked and logged via Netbox):
 
-**Devies**
+**Devices**
 
 **Virtual Machines**
 
