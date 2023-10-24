@@ -46,6 +46,8 @@ My device list via netbox.
 
 **Virtual Machines**
 
+Some of my virtual mcahines include: OPNsense, which is acting as a DHCP and DNS server. OPNsense as a DNS server that can interact seamlessly with it's DHCP service, by automatically logging selected devices. I chose to only register hostnames of Static devices within my DHCP. Other virtual machines include the bitwarden password manager, and my own backup script. Below shows all my virtual machines and the role(s) they have.
+
 Proxmox GUI overview.
 
 ![](https://github.com/allenc125789/Homelab/blob/main/img-files/Screenshot%20from%202023-10-23%2023-08-48.png)
