@@ -44,6 +44,8 @@ All of my homelab's devices and VM's are listed here, and via the pictures below
 
 **Virtual Machines**
 
+![](https://github.com/allenc125789/Homelab/blob/main/img-files/Screenshot%20from%202023-10-23%2023-08-48.png)
+
 ![](https://github.com/allenc125789/Homelab/blob/main/img-files/Screenshot%20from%202023-10-23%2022-53-38.png)
 
 ## -Network
