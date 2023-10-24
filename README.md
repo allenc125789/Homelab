@@ -8,7 +8,7 @@ As a part of my homelab, for the documentation I want to upload it to github for
 
 (b)What my fail-safe is
 
-(c)what comes next.
+(c)What comes next.
 
 # (a)What I have
 
