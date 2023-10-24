@@ -43,5 +43,13 @@ Designing my network was made extremley easy with Netbox. I decided to go with a
 
 **VLANS**
 
+**Monitoring**
+
 Work in progress. Will update soon.
+
+## -Automation
+
+**The Linux Shell**
+
+**My Script**
 
