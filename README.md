@@ -42,4 +42,5 @@ Designing my network was made extremley easy with Netbox. I decided to go with a
 **IP Reservations**
 
 **VLANS**
+
 Work in progress. Will update soon.
