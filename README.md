@@ -12,7 +12,7 @@ As a part of my homelab, for the documentation I want to upload it to github for
 
 # (a)What I have
 
-* ## Hosted Services & Software
+* Hosted Services & Software
 
 **Server Management**
 
