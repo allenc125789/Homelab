@@ -33,7 +33,10 @@ All of my homelab's devices and VM's are listed here, and via the pictures below
 
 ## -Network
 
-Designing my network was made extremley easy with Netbox. I decided to go with a 26/ subent, as it (1) will allow growth if I decide to add more devices to my network without being too unessesarily large
+Designing my network was made extremley easy with Netbox. I decided to go with a 26/ subent, as it (1) will allow growth if I decide to add more devices to my network without being too unessesarily large, and (2) helps ease the process of organizing.
 
 **Network Map**
 
+**IP Ranges**
+
+**IP Reservations**
