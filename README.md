@@ -42,11 +42,17 @@ All of my homelab's devices and VM's are listed here, and via the pictures below
 
 ![](https://github.com/allenc125789/Homelab/blob/main/img-files/Screenshot%20from%202023-10-23%2022-52-50.png)
 
+My device list via netbox.
+
 **Virtual Machines**
 
 ![](https://github.com/allenc125789/Homelab/blob/main/img-files/Screenshot%20from%202023-10-23%2023-08-48.png)
 
+Proxmox GUI overview.
+
 ![](https://github.com/allenc125789/Homelab/blob/main/img-files/Screenshot%20from%202023-10-23%2022-53-38.png)
+
+Virtual machine list via netbox.
 
 ## -Network
 
