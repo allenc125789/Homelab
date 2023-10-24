@@ -17,7 +17,8 @@ As a part of my homelab, for the documentation I want to upload it to github for
 **Server Management**
 
 * [Bitwarden](https://github.com/bitwarden/server): A self-hosted password manager and vault.
-* [Proxmox](https://www.proxmox.com/en/): A KVM based Debian hypervisor.
+* [Proxmox](https://www.proxmox.com/en/): A KVM based Debian hypervisor. 
+* [Netbox](https://github.com/netbox-community/netbox): A Network documentation program. Allows the tracking of IPs, Devices, and their status on the network.
 
 **File storage & Sharing**
 
