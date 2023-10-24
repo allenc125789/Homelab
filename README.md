@@ -6,11 +6,11 @@ As a part of my homelab, for the documentation I want to upload it to github for
 
 [(a)](https://github.com/allenc125789/Homelab/blob/main/README.md#awhat-i-have) What I did
 
-[b] What my fail-safe is
+[(b)] What my fail-safe is
 
-[c] What comes next.
+[(c)] What comes next.
 
-# [a]What I have
+# (a)What I have
 
 ## -Hosted Services & Software
 
