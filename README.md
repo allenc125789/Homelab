@@ -2,7 +2,7 @@
 
 **Description**
 
-As a part of my homelab, for the documentation I want to upload it to github for furutre reproduction, organization and planning. This space will be used to outline the various aspects of my project which utilizes many Open Source solutions to create a lightweight (and very cost effective!) user space. This project introduced me into a lot of new tools, and getting a deeper understanding of Networking services and their coexisting nature within the OSI Model. I just recently finished utilizing my central server to near 100% of it's resources, and near ready to start planning an upgrade on my infrastructure. This Repo will contain: (a)What I did; (b)What my fail-safe is; (c)and what comes next.
+As a part of my homelab, for the documentation I want to upload it to github for furutre reproduction, organization and planning. This space will be used to outline the various aspects of my project which utilizes many Open Source solutions to create a lightweight (and very cost effective!) user space. This project introduced me into a lot of new tools, and getting a deeper understanding of Networking services and their coexisting nature within the OSI Model. I just recently finished utilizing my central server to near 100% of it's resources, and near ready to start planning an upgrade on my infrastructure. This Repo will contain: (a)What I did; (b)What my fail-safe is; and (c)what comes next.
 
 # (a)What I have
 
