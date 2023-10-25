@@ -8,7 +8,7 @@ My goals for this project as my first homelab was to get all my data organized, 
 
 As a part of my homelab, for the documentation I want to upload it to github for future reproduction, organization and planning. This space will be used to outline the various aspects of my project which utilizes many Open Source solutions to create a secure, lightweight (and very cost effective!) user space. This project introduced me into a lot of new tools, and getting a deeper understanding of Networking services and their coexisting nature within the OSI Model. I just recently finished utilizing my central server to near 100% of it's resources, and near ready to start planning an upgrade on my infrastructure. This Repo will contain: 
 
-- [1. What I Have.](https://github.com/allenc125789/Homelab/blob/main/README.md#awhat-i-have)
+[1. What I Have.](https://github.com/allenc125789/Homelab/blob/main/README.md#awhat-i-have)
 
   - 1a.
   - 1b.
