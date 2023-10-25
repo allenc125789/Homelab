@@ -20,7 +20,7 @@ As a part of my homelab, for the documentation I want to upload it to github for
 
 [3. What comes next?
 
-# (a)What I Have.
+# 1. What I Have.
 
 ## -Hosted Services & Software
 
