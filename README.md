@@ -10,7 +10,7 @@ As a part of my homelab, for the documentation I want to upload it to github for
 
 - [1. What I Have.](https://github.com/allenc125789/Homelab/blob/main/README.md#awhat-i-have)
 
-  - 1a. 
+<sub>  - 1a. </sub>
 
   - 1b.
 
