@@ -48,7 +48,7 @@ Currently I have one central server does most of the magic as a Proxmox Hypervis
 
 There are some limitations with this setup, such as the motherboard has no IOMMU support, which makes pass-through of PCI(e) devices impossible for projects such as a GPU passthrough for a gaming VM, or a Network Card passthrough for my virtual router. Another limitation I face is the number of VM's I can safely make without over-use of resources. I'd also be limited to 6 VM's total with 1 core per VM. With these limitations in mind, I can make the most out of my system.
 
-All of my homelab's devices and VM's are listed here, and via the pictures below (Documentation tracked and logged via Netbox):
+All of my homelab's devices and VM's are listed here, and via the pictures below on the *Devices* (Documentation tracked and logged via Netbox).
 
 **Devices**
 
@@ -58,7 +58,7 @@ My device list via netbox.
 
 **Virtual Machines**
 
-Some of my virtual machines include: OPNsense, which is acting as a DHCP and DNS server. OPNsense as a DNS server that can interact seamlessly with it's DHCP service, by automatically logging selected devices. I chose to only register hostnames of Static devices within my DHCP. Other virtual machines include the bitwarden password manager, and my own backup script. Below shows all my virtual machines and the role(s) they have.
+Some of my virtual machines include: OPNsense, which is acting as a DHCP and DNS server. OPNsense's DNS and DHCP services can interact seamlessly together by automatically logging selected devices. I chose to only register hostnames of Static devices within my DHCP. Other virtual machines include the bitwarden password manager, and my own backup script. Below shows all my virtual machines and the role(s) they have.
 
 Proxmox GUI overview.
 
