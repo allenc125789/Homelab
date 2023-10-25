@@ -38,7 +38,7 @@ Currently I have one central server does most of the magic as a Proxmox Hypervis
 
 * GA-78LMT-S2
   * AMD FX(tm)-6300 Six-Core Processor
-  * 12GB RAM (1x 4GB DIMM 1600 MHz; 1x 4GB DIMM 1600 MHz)
+  * 12GB RAM (1x 4GB DDR3 DIMM 1600 MHz; 1x 4GB DDR3 DIMM 1600 MHz)
   * HDD 1: Toshiba 1TB 7200 RPM SATA 6.0Gb/s Hard Drive
   * HDD 2: Seagate 2TB 5400 RPM SATA 6.0Gb/s Hard Drive 
 
