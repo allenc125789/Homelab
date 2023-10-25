@@ -37,7 +37,10 @@ Most of these services are self hosted and virtualized in a Proxmox environment.
 Currently I have one central server does most of the magic as a Proxmox Hypervisor. 
 
 * GA-78LMT-S2
-
+- AMD FX(tm)-6300 Six-Core Processor
+- 12GB (1x 4GB DIMM 1600 MHz; 1x 4GB DIMM 1600 MHz)
+- HDD 1: Toshiba 1TB 7200 RPM SATA 6.0Gb/s Hard Drive
+- HDD 2: Seagate 2TB 5400 RPM SATA 6.0Gb/s Hard Drive 
 
 There are some limitations with this setup, such as the motherboard has no IOMMU support, which makes pass-through of PCI(e) devices impossible for projects such as a GPU passthrough for a gaming VM, or a Network Card passthrough for my virtual router. Another limitation I face is the number of VM's I can safely make without over-use of resources. I'd also be limited to 6 VM's total with 1 core per VM. With these limitations in mind, I can make the most out of my system.
 
