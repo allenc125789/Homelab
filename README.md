@@ -12,7 +12,7 @@ As a part of my homelab, for the documentation I want to upload it to github for
 
 -1a. 
 
-  -1b.
+   -1b.
 
   -1c.
 
