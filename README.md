@@ -26,7 +26,7 @@ As a part of my homelab, for the documentation I want to upload it to github for
 
 **File storage & Sharing**
 
-* [NetACBackup](https://github.com/allenc125789/NetACBackup.sh): My own script for NAS based backup management and storage.
+* [NetACBackup](https://github.com/allenc125789/NetACBackup.sh): My own BASH script for NAS based backup management and storage on Linux systems.
 
 **Networking**
 
