@@ -36,7 +36,7 @@ Most of these services are self hosted and virtualized in a Proxmox environment.
 
 Currently I have one central server does most of the magic as a Proxmox Hypervisor. 
 
-* GA-78LMT-S2
++ GA-78LMT-S2
 - AMD FX(tm)-6300 Six-Core Processor
 - 12GB (1x 4GB DIMM 1600 MHz; 1x 4GB DIMM 1600 MHz)
 - HDD 1: Toshiba 1TB 7200 RPM SATA 6.0Gb/s Hard Drive
