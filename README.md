@@ -6,7 +6,7 @@ My goals for this project as my first homelab was to get all my data organized, 
 
 **Description**
 
-As a part of my homelab, for the documentation I want to upload it to github for future reproduction, organization and planning. This space will be used to outline the various aspects of my project which utilizes many Open Source solutions to create a secure, lightweight (and very cost effective!) user space. This project introduced me into a lot of new tools, and getting a deeper understanding of Networking services and their coexisting nature within the OSI Model. I just recently finished utilizing my central server to near 100% of it's resources, and near ready to start planning an upgrade on my infrastructure. This Repo will contain: 
+As a part of my homelab, for the documentation I want to upload it to github for future reproduction, organization and planning. I've outlined the various aspects of my project which utilizes many Open Source solutions to create a secure, lightweight (*and very cost effective!*) user space. This project introduced me to a lot of new tools and getting a deeper understanding of networking services and their coexisting nature within the OSI Model. I just recently finished utilizing my central server to near 100% of it's resources, and near ready to start planning an upgrade on my infrastructure. This Repo will contain: 
 
 [1. What I Have.](https://github.com/allenc125789/Homelab/blob/main/README.md#awhat-i-have)
 
@@ -52,7 +52,7 @@ Currently I have one central server does most of the magic as a Proxmox Hypervis
   * HDD 1: Toshiba 1TB 7200 RPM SATA 6.0Gb/s Hard Drive
   * HDD 2: Seagate 2TB 5400 RPM SATA 6.0Gb/s Hard Drive 
 
-There are some limitations with this setup, such as the motherboard has no IOMMU support, which makes pass-through of PCI(e) devices impossible for projects such as a GPU passthrough for a gaming VM, or a Network Card passthrough for my virtual router. Another limitation I face is the number of VM's I can safely make without over-use of resources. I'd also be limited to 6 VM's total with 1 core per VM. With these limitations in mind, I can make the most out of my system.
+There are some limitations with this setup, such as the motherboard has no IOMMU support, which makes pass-through of PCI(e) devices impossible for projects such as a GPU passthrough for a gaming VM, or a Network Card passthrough for my virtual router. Another limitation I face is the number of VM's I can safely make without over-use of resources. I'd be limited to 6 VM's total with 1 core per VM. With these limitations in mind however, I can make the most out of my system.
 
 All of my homelab's devices and VM's are listed here, and via the pictures below on the *Devices* (Documentation tracked and logged via Netbox).
 
