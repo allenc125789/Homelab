@@ -96,7 +96,7 @@ Work in progress. Will update soon.
 
 Because most of my machines run linux, using it's built in scheduiling systems made the process of automation very easy. I use the shell job schedueling tool `cron`, for it's easy one line commands.
 
-A `cron` exaomple:
+A `cron` example:
 
 
 
