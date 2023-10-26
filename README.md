@@ -99,7 +99,7 @@ Work in progress. Will update soon.
 
 **The Linux Shell**
 
-Because most of my machines run linux, using it's built in scheduiling systems made the process of automation very easy. I use the shell job schedueling tool `cron`, for it's easy one line commands.
+Because most of my machines run linux, using it's built in schedueling systems made the process of automation very easy. I use the shell job schedueling tool `cron`, for it's easy one line commands.
 
 A `cron` example on my Bitwarden virtual machine (runs Debian for the OS):
 
