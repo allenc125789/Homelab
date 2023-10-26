@@ -108,7 +108,7 @@ A `cron` example on my Bitwarden virtual machine:
 SHELL=/bin/bash
 0 23 */2 * * rm -r /home/bitwarden/bwbackups/* && cp -r /home/bitwarden/bwdata /home/bitwarden/bwbackups && chown -R bitwarden:bitwarden /home/bitwarden/bwbackups
 ```
-This code, in order: `SHELL=/bin/bash` Sets the shell for the cron job (default is SH, I want BASH for better functionality.), I then set the time frame for when to run the script `0 23 */2 * *`, which translates to "Every 2 days at 11pm", `rm -r /home/bitwarden/bwbackups/*` to remove old backup files, `cp -r /home/bitwarden/bwdata /home/bitwarden/bwbackups` to copy any new cahnges to the backup folder, and finally I set permissions with `chown -R bitwarden:bitwarden /home/bitwarden/bwbackups`, as the default permissions make it difficult for the non-root user to copy any meaningful data during my NAS's backup process.
+This code, in order: `SHELL=/bin/bash` Sets the shell for the cron job (default is SH, I want BASH for better functionality.), I then set the time frame for when to run the script `0 23 */2 * *`, which translates to "Every 2 days at 11pm", `rm -r /home/bitwarden/bwbackups/*` to remove old backup files, `cp -r /home/bitwarden/bwdata /home/bitwarden/bwbackups` to copy any new changes to the backup folder, and finally I set permissions with `chown -R bitwarden:bitwarden /home/bitwarden/bwbackups`, as the default permissions make it difficult for the non-root user to copy any meaningful data during my NAS's backup process.
 
 **My Script**
 
