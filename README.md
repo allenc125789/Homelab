@@ -112,6 +112,6 @@ This code, in order: `SHELL=/bin/bash` Sets the shell for the cron job (default 
 
 **My Script**
 
-I created a BASH script as a seperate project from my homelab, but has become an essential tool in how I like to store data. What my script does is it uses standard shell commands from linux to create a UI that helps manage rsync in a streamlined manner to archive and encrypt data for multiple remote users/devices. It's made my life as a network admin very easy and was a great learning experience!
+I created a BASH script as a seperate project from my homelab, but has become an essential tool in how I like to store data. What my script does is it uses standard shell commands from linux to create a UI that helps manage `rsync` in a streamlined manner to archive and encrypt data for multiple remote users/devices. It's made my life as a network admin very easy and was a great learning experience!
 
 My script can be found in my github profile, and in the link [here](https://github.com/allenc125789/NetACBackup.sh/tree/main).
