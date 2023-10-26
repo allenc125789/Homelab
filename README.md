@@ -102,12 +102,16 @@ Work in progress. Will update soon.
 
 Because most of my machines run linux, using it's built in scheduiling systems made the process of automation very easy. I use the shell job schedueling tool `cron`, for it's easy one line commands.
 
-A `cron` example:
+A `cron` example on my Bitwarden virtual machine:
 
 ```
 SHELL=/bin/bash
 0 23 */2 * * rm -r /home/bitwarden/bwbackups/* && cp -r /home/bitwarden/bwdata /home/bitwarden/bwbackups && chown -R bitwarden:bitwarden /home/bitwarden/bwbackups
 ```
+This code, in order: `SHELL=/bin/bash` Sets the shell for the cron job (default is SH, I want BASH for better functionality.), I then set the time frame for when to run the script `0 23 */2 * *`, which translates to "Every 2 days at 11pm", `rm -r /home/bitwarden/bwbackups/*` to remove old backup files, `cp -r /home/bitwarden/bwdata /home/bitwarden/bwbackups` to copy any new cahnges to the backup folder, and finally I set permissions with `chown -R bitwarden:bitwarden /home/bitwarden/bwbackups`, as the default permissions make it difficult for the non-root user to copy any meaningful data during my NAS's backup process.
 
 **My Script**
 
+I created a BASH script as a seperate project from my homelab, but has become an essential tool in how I like to store data. What my script does is it uses standard shell commands from linux to create a UI that helps manage rsync in a streamlined manner to archive and encrypt data for multiple users/devices. It's made my life as a network admin very easy and was a great learning experience!
+
+My script can be found in my github profile, and in the link (here)[https://github.com/allenc125789/NetACBackup.sh/tree/main].
