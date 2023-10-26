@@ -2,7 +2,7 @@
 
 **Goal**
 
-My goals for this project as my first homelab was to get all my data organized, implement new technology to increase my home network's security and functionality, and create an automated system with reproduceable backups.
+My goals for this project as my first homelab was to get all my data organized, implement new technology to increase my home network's security and functionality, and create an automated system with reproduceable and resiliant backups.
 
 **Description**
 
