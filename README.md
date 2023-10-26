@@ -104,7 +104,10 @@ Because most of my machines run linux, using it's built in scheduiling systems m
 
 A `cron` example:
 
-
+```
+SHELL=/bin/bash
+0 23 */2 * * rm -r /home/bitwarden/bwbackups/* && cp -r /home/bitwarden/bwdata /home/bitwarden/bwbackups && chown -R bitwarden:bitwarden /home/bitwarden/bwbackups
+```
 
 **My Script**
 
