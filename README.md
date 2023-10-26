@@ -22,7 +22,7 @@ As a part of my homelab, for the documentation I want to upload it to github for
 
 # 1. What I Have.
 
-## -Hosted Services & Software
+## 1a. Hosted Services & Software
 
 **Server Management**
 
@@ -42,7 +42,7 @@ As a part of my homelab, for the documentation I want to upload it to github for
 
 Most of these services are self hosted and virtualized in a Proxmox environment. My system is like this for a few security based aspects: Self hosted services can reduce the risk of hacks and data-leaks while data is traversing to an off-site location, and possible bad actors from accessing your private files. Virtualized environments reduce cost of needing multiple systems for multiple platforms, and will also increase my overall security by isolation of individual services.
 
-## -Hardware
+## 1b. Hardware
 
 Currently I have one central server does most of the magic as a Proxmox Hypervisor. 
 
@@ -74,7 +74,7 @@ Virtual machine list via netbox.
 
 ![](https://github.com/allenc125789/Homelab/blob/main/img-files/Screenshot%20from%202023-10-23%2022-53-38.png)
 
-## -Network
+## 1c. Network
 
 Designing my network was made extremley easy with Netbox. After determinging the number of devices I have, I decided to go with a /26 subent, as it (1) will allow growth if I decide to add more devices to my network without being too unessesarily large, and (2) helps ease the process of organizing.
 
@@ -96,7 +96,7 @@ Work in progress. Will update soon.
 
 Work in progress. Will update soon.
 
-## -Automation
+## 1d. Automation
 
 **The Linux Shell**
 
