@@ -10,11 +10,10 @@ As a part of my homelab, for the documentation I want to upload it to github for
 
 [1. What I Have.](https://github.com/allenc125789/Homelab/blob/main/README.md#awhat-i-have)
 
-  - 1a.
-  - 1b.
-  - 1c.
-  - 1d.
-  - 1e.
+  - [1a. Hosted Services & Software](https://github.com/allenc125789/Homelab/blob/main/README.md#1a-hosted-services--software)
+  - [1b. Hardware](https://github.com/allenc125789/Homelab/blob/main/README.md#1b-hardware)
+  - [1c. Network](https://github.com/allenc125789/Homelab/blob/main/README.md#1c-network)
+  - [1d. Automation](https://github.com/allenc125789/Homelab/blob/main/README.md#1d-automation)
 
 [2. What is my fail-safe?
 
