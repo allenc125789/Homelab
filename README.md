@@ -43,6 +43,8 @@ ________________________________________________________________________________
 
 Most of these services are self hosted and virtualized in a Proxmox environment. My system is like this for a few security based aspects: Self hosted services can reduce the risk of hacks and data-leaks while data is traversing to an off-site location, and possible bad actors from accessing your private files. Virtualized environments reduce cost of needing multiple systems for multiple platforms, and will also increase my overall security by isolation of individual services.
 
+My OpenVPN however, is run from my physical router ("home-ok-ro01p"). I experiemented running my own OpenVPN server, however I had trouble getting the configuration files syntaxed properly. The default configuration that came packaged in my physical router worked on first try. I continue to use this setup for convienience, but will be studying the file configuration that works so I can set up my own in the future.
+
 ## 1b. Hardware
 
 Currently I have one central server does most of the magic as a Proxmox Hypervisor. 
