@@ -15,9 +15,9 @@ As a part of my homelab, for the documentation I want to upload it to github for
   - 1c. [Network](https://github.com/allenc125789/Homelab/blob/main/README.md#1c-network)
   - 1d. [Automation](https://github.com/allenc125789/Homelab/blob/main/README.md#1d-automation)
 
-[2. What is my fail-safe?
+2. [What is my Fail-Safe?]()
 
-[3. What comes next?
+3. [What comes next?]()
 
 # 1. What I Have.
 
@@ -114,3 +114,12 @@ This code, in order: `SHELL=/bin/bash` Sets the shell for the cron job (default 
 I created a BASH script as a seperate project from my homelab, but has since become an essential tool in how I like to store data. What my script does is it uses standard shell commands from linux to create a UI that helps manage `rsync` in a streamlined manner to archive and encrypt data for multiple remote users/devices. It can be run without user interaction after its initial configuration. It's made my life as a network admin very easy and was a great learning experience!
 
 My script can be found in my github profile, and in the link [here](https://github.com/allenc125789/NetACBackup.sh/tree/main).
+
+# 2. What is my Fail-Safe?
+
+My Fail-Safe follows the 3-2-1 Backup prodecure. 3 backups, on 2 drives, with 1 off-site. Most of the work is done by my own BASH Script which copies, compresses, and exnrypts all necessary data at a file level, which I can then distribute to seperate drives. 2 HDDs on my central server and a thumb-drive I occasionally update, kept in a secure location at my close family's house.
+
+This process let's me edit data without worries, and in the event of a natural disaster or possible data corruption, I have the thumbdrive at my family's house, which is located a city away.
+
+# 3. What comes next?
+
