@@ -85,9 +85,13 @@ Designing my network was made extremley easy with Netbox. After determinging the
 
 **IP Ranges**
 
+Provided via netbox.
+
 ![](https://github.com/allenc125789/Homelab/blob/main/img-files/Screenshot%20from%202023-10-23%2022-49-28.png)
 
 **IP Reservations**
+
+Provided via netbox.
 
 ![](https://github.com/allenc125789/Homelab/blob/main/img-files/Screenshot%20from%202023-10-23%2022-51-57.png)
 
