@@ -8,16 +8,16 @@ My goals for this project as my first homelab was to get all my data organized, 
 
 As a part of my homelab, for the documentation I want to upload it to github for future reproduction, organization and planning. I've outlined the various aspects of my project which utilizes many Open Source solutions to create a secure, lightweight (*and very cost effective!*) user space. This project introduced me to a lot of new tools and getting a deeper understanding of networking services and their coexisting nature within the OSI Model. I just recently finished utilizing my central server to near 100% of it's resources, and near ready to start planning an upgrade on my infrastructure. This Repo will contain: 
 
-1. [What I Have.](https://github.com/allenc125789/Homelab/blob/main/README.md#awhat-i-have)
+- 1. [What I Have.](https://github.com/allenc125789/Homelab/blob/main/README.md#awhat-i-have)
 
   - 1a. [Hosted Services & Software](https://github.com/allenc125789/Homelab/blob/main/README.md#1a-hosted-services--software)
   - 1b. [Hardware](https://github.com/allenc125789/Homelab/blob/main/README.md#1b-hardware)
   - 1c. [Network](https://github.com/allenc125789/Homelab/blob/main/README.md#1c-network)
   - 1d. [Automation](https://github.com/allenc125789/Homelab/blob/main/README.md#1d-automation)
 
-2. [What is my Fail-Safe?](https://github.com/allenc125789/Homelab/blob/main/README.md#2-what-is-my-fail-safe)
+- 2. [What is my Fail-Safe?](https://github.com/allenc125789/Homelab/blob/main/README.md#2-what-is-my-fail-safe)
 
-3. [What comes next?](https://github.com/allenc125789/Homelab/blob/main/README.md#3-what-comes-next)
+- 3. [What comes next?](https://github.com/allenc125789/Homelab/blob/main/README.md#3-what-comes-next)
 
 ______________________________________________________________________________________________________________________________________________________________________________
 
