@@ -119,7 +119,7 @@ My script can be found in my github profile, and in the link [here](https://gith
 
 # 2. What is my Fail-Safe?
 
-My Fail-Safe follows the 3-2-1 Backup prodecure. 3 backups, on 2 drives, with 1 off-site. Most of the work is done by my own BASH Script which copies, compresses, and exnrypts all necessary data at a file level, which I can then distribute to seperate drives. 2 HDDs on my central server and a thumb-drive I occasionally update, kept in a secure location at my close family's house.
+My Fail-Safe follows the 3-2-1 Backup prodecure. 3 backups, on 2 drives, with 1 off-site. Most of the work is done by my own BASH Script which copies, compresses, and encrypts all necessary data at a file level, which I can then distribute to seperate drives. 2 HDDs on my central server and a thumb-drive I occasionally update, kept in a secure location at my close family's house.
 
 This process let's me edit data without worries, and in the event of a natural disaster or possible data corruption, I have the thumbdrive at my family's house, which is located a city away.
 
