@@ -29,7 +29,7 @@ ________________________________________________________________________________
 
 * [Bitwarden](https://github.com/bitwarden/server): A self-hosted password manager and vault.
 * [Proxmox](https://www.proxmox.com/en/): A KVM based Debian hypervisor. 
-* [Netbox](https://github.com/netbox-community/netbox): A Network documentation program. Allows the tracking of IPs, Devices, and their status on the network.
+* [Netbox](https://github.com/netbox-community/netbox): A Network documentation program. Allows the logging of IPs, Devices, and their status on the network.
 
 **File storage & Sharing**
 
