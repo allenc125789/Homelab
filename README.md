@@ -15,9 +15,11 @@ As a part of my homelab, for the documentation I want to upload it to github for
   - 1c. [Network](https://github.com/allenc125789/Homelab/blob/main/README.md#1c-network)
   - 1d. [Automation](https://github.com/allenc125789/Homelab/blob/main/README.md#1d-automation)
 
-2. [What is my Fail-Safe?]()
+2. [What is my Fail-Safe?](https://github.com/allenc125789/Homelab/blob/main/README.md#2-what-is-my-fail-safe)
 
-3. [What comes next?]()
+3. [What comes next?](https://github.com/allenc125789/Homelab/blob/main/README.md#3-what-comes-next)
+
+______________________________________________________________________________________________________________________________________________________________________________
 
 # 1. What I Have.
 
