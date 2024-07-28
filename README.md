@@ -4,17 +4,6 @@
 
 Network plan, and organization of my home network. This project introduced me to many new tools and helped me gain a better understanding of networking services and their coexisting nature within the OSI Model. 
 
-1. [What I Have.](https://github.com/allenc125789/Homelab/blob/main/README.md#awhat-i-have)
-
-  - 1a. [Hosted Services & Software](https://github.com/allenc125789/Homelab/blob/main/README.md#1a-hosted-services--software)
-  - 1b. [Hardware](https://github.com/allenc125789/Homelab/blob/main/README.md#1b-hardware)
-  - 1c. [Network](https://github.com/allenc125789/Homelab/blob/main/README.md#1c-network)
-  - 1d. [Automation](https://github.com/allenc125789/Homelab/blob/main/README.md#1d-automation)
-
-2. [What is my Fail-Safe?](https://github.com/allenc125789/Homelab/blob/main/README.md#2-what-is-my-fail-safe)
-
-3. [What comes next?](https://github.com/allenc125789/Homelab/blob/main/README.md#3-what-comes-next)
-
 ______________________________________________________________________________________________________________________________________________________________________________
 
 # 1. What I Have.
