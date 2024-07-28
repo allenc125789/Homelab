@@ -2,7 +2,7 @@
 
 **Description**
 
-Network plan, and organization of my home network. This project introduced me to many new tools and helped me gain a better understanding of networking services and their coexisting nature within the OSI Model. 
+Network plan, and organization of my home network. Recently introduced a new segment in the network
 
 ______________________________________________________________________________________________________________________________________________________________________________
 
