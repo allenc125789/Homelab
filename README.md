@@ -6,8 +6,6 @@ Network plan, and organization of my home network. Recently introduced a new seg
 
 ______________________________________________________________________________________________________________________________________________________________________________
 
-# 1. What I Have.
-
 ## 1a. Hosted Services & Software
 
 **Server Management**
