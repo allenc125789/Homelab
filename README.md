@@ -1,12 +1,8 @@
 # Homelab
 
-**Goal**
-
-My goals for this project as my first homelab was to get all my data organized, implement new technology to increase my home network's security and functionality, and create an automated system with reproduceable backups.
-
 **Description**
 
-As a part of my homelab, for the documentation I want to upload it to github for future reproduction, organization and planning. I've outlined the various aspects of my project which utilizes many Open Source solutions to create a secure, lightweight (*and very cost effective!*) user space. This project introduced me to a lot of new tools and getting a deeper understanding of networking services and their coexisting nature within the OSI Model. I just recently finished utilizing my central server to near 100% of it's resources, and near ready to start planning an upgrade on my infrastructure. This Repo will contain: 
+Network plan, and organization of my home network. This project introduced me to many new tools and helped me gain a better understanding of networking services and their coexisting nature within the OSI Model. 
 
 1. [What I Have.](https://github.com/allenc125789/Homelab/blob/main/README.md#awhat-i-have)
 
