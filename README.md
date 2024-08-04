@@ -36,9 +36,12 @@ ______________________________________________________________________________
 
 - home-ok-ws01p
   - Windows Server, running Active Directory and DNS roles.
+>
 - home-ok-hv02p
   - Windows Server Core, running Hyper-V.
+>
 - home-ok-de02p
   - Windows 11 Desktop, for general Administration
+>
 - Hostname: *home-ok-na01p*
   - Second Debian based server running my application, TurtleNAS.
