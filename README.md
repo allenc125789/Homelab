@@ -43,5 +43,5 @@ ______________________________________________________________________________
 - home-ok-de02p
   - Windows 11 Desktop, for general Administration
 >
-- Hostname: *home-ok-na01p*
+- Hostname: *home-ok-na02p*
   - Debian, second server running my application, TurtleNAS.
