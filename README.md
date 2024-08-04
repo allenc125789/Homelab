@@ -7,23 +7,25 @@ Network plan, and organization of my home network. I've designed my network with
 ______________________________________________________________________________________________________________________________________________________________________________
 
 # LAN
+
 home-ok-ro01p
 * [OpenVPN](https://github.com/OpenVPN/openvpn): Self-hosted VPN.
 
 
-# Linux
+# Linux VLAN
 
-## 1a. Hosted Services & Software
-
+home-ok-hv01p
 * [Proxmox](https://www.proxmox.com/en/): A KVM based Debian hypervisor. 
 
+home-ok-ro02p
 * [OPNsense](https://opnsense.org/): Open source router software acting as a DHCP and DNS server.
 
+home-ok-bw01p
 * [Bitwarden](https://github.com/bitwarden/server): A self-hosted password manager and vault.
 
+home-ok-na01p
 * [TurtleNAS](https://github.com/allenc125789/TurtleNAS): My own application that i'm building, that acts as NAS software for Debian.
-  
-* [FreeDNS](https://freedns.afraid.org): A third party DDNS service to track my home's dynamic public IP.
+
 
 Most of these services are self hosted and virtualized in a Proxmox environment. My system are like this for a few security based aspects: Self hosted services can reduce the risk of hacks and data-leaks while data is traversing to an off-site location, and possible bad actors from accessing your private files. Virtualized environments reduce cost of needing multiple systems for multiple platforms, and will also increase my overall security by isolation of individual services.
 
