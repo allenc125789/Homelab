@@ -17,22 +17,12 @@ ______________________________________________________________________________
 
 - Hostname: *home-ok-hv01p*
   - [Proxmox](https://www.proxmox.com/en/): KVM based Debian hypervisor.
-- 
 - Hostname: *home-ok-ro02p*
   - [OPNsense](https://opnsense.org/): Open source router software acting as a DHCP and DNS server.
-
-______________________________________________________________________________
-
 - Hostname: *home-ok-bw01p*
   - [Bitwarden](https://github.com/bitwarden/server): Self-hosted password manager and vault.
-
-______________________________________________________________________________
-
 - Hostname: *home-ok-na01p*
   - [TurtleNAS](https://github.com/allenc125789/TurtleNAS): My own application that i'm building, that acts as NAS software for Debian.
-
-______________________________________________________________________________
-
 - Hostname: *home-ok-de01p*
   - Debian Desktop for personal use.
 
@@ -42,20 +32,9 @@ ______________________________________________________________________________
 
 - home-ok-ws01p
   - Windows Server, running Active Directory and DNS roles.
- 
-______________________________________________________________________________
-
 - home-ok-hv02p
   - Windows Server Core, running Hyper-V.
-
-______________________________________________________________________________
-
 - home-ok-de02p
   - Windows 11 Desktop, for general Administration
-
-______________________________________________________________________________
-
 - Hostname: *home-ok-na01p*
   - Second Debian based server running my application, TurtleNAS.
- 
-______________________________________________________________________________
