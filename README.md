@@ -13,7 +13,7 @@ Network plan, and organization of my home network. I've designed my network with
 ______________________________________________________________________________
 
 
-## Linux VLAN (192.168.0.20 - 99)
+## Linux VLAN (192.168.0.10 - 99)
 
 - Hostname: *home-ok-hv01p*
   - [Proxmox](https://www.proxmox.com/en/): KVM based Debian hypervisor. 
