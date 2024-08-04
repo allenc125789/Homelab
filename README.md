@@ -44,4 +44,4 @@ ______________________________________________________________________________
   - Windows 11 Desktop, for general Administration
 >
 - Hostname: *home-ok-na01p*
-  - Second Debian based server running my application, TurtleNAS.
+  - Debian, second server running my application, TurtleNAS.
