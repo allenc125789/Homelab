@@ -15,7 +15,7 @@ home-ok-ro01p
 
 ## Linux VLAN
 
-> [home-ok-hv01p]
+> [!home-ok-hv01p]
 > [Proxmox](https://www.proxmox.com/en/): KVM based Debian hypervisor. 
 
 home-ok-ro02p
