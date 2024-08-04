@@ -8,7 +8,7 @@ ________________________________________________________________________________
 
 # LAN
 
-home-ok-ro01p
+* home-ok-ro01p
 
 [OpenVPN](https://github.com/OpenVPN/openvpn): Self-hosted VPN.
 
@@ -17,9 +17,9 @@ ______________________________________________________________________________
 
 ## Linux VLAN
 
-home-ok-hv01p
+* home-ok-hv01p
 
-> [Proxmox](https://www.proxmox.com/en/): KVM based Debian hypervisor. 
+[Proxmox](https://www.proxmox.com/en/): KVM based Debian hypervisor. 
 
 ______________________________________________________________________________
 
