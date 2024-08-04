@@ -16,20 +16,17 @@ ______________________________________________________________________________
 ## Linux VLAN
 
 - Hostname: *home-ok-hv01p*
-
-[Proxmox](https://www.proxmox.com/en/): KVM based Debian hypervisor. 
+  - [Proxmox](https://www.proxmox.com/en/): KVM based Debian hypervisor. 
 
 ______________________________________________________________________________
 
 - Hostname: *home-ok-ro02p*
-
-[OPNsense](https://opnsense.org/): Open source router software acting as a DHCP and DNS server.
+  - [OPNsense](https://opnsense.org/): Open source router software acting as a DHCP and DNS server.
 
 ______________________________________________________________________________
 
 - Hostname: *home-ok-bw01p*
-
-[Bitwarden](https://github.com/bitwarden/server): Self-hosted password manager and vault.
+  - [Bitwarden](https://github.com/bitwarden/server): Self-hosted password manager and vault.
 
 ______________________________________________________________________________
 
