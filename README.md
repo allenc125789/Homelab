@@ -30,26 +30,23 @@ ______________________________________________________________________________
 
 ______________________________________________________________________________
 
-Hostname: *home-ok-na01p*
-
-[TurtleNAS](https://github.com/allenc125789/TurtleNAS): My own application that i'm building, that acts as NAS software for Debian.
+- Hostname: *home-ok-na01p*
+  - [TurtleNAS](https://github.com/allenc125789/TurtleNAS): My own application that i'm building, that acts as NAS software for Debian.
 
 ______________________________________________________________________________
 
-Hostname: *home-ok-de01p*
-
-Debian Desktop for personal use.
+- Hostname: *home-ok-de01p*
+  - Debian Desktop for personal use.
 
 ______________________________________________________________________________
 
 ## Windows VLAN (192.168.0.100 - 149)
 
-home-ok-ws01p
+- home-ok-ws01p
 
-home-ok-hv02p
+- home-ok-hv02p
 
-home-ok-de02p
+- home-ok-de02p
 
-home-ok-
 
 
