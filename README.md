@@ -16,7 +16,8 @@ ______________________________________________________________________________
 ## Linux VLAN: (192.168.0.10 - 99)
 
 - Hostname: *home-ok-hv01p*
-  - [Proxmox](https://www.proxmox.com/en/): KVM based Debian hypervisor. 
+  - [Proxmox](https://www.proxmox.com/en/): KVM based Debian hypervisor.
+
 - Hostname: *home-ok-ro02p*
   - [OPNsense](https://opnsense.org/): Open source router software acting as a DHCP and DNS server.
 
