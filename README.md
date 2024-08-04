@@ -8,8 +8,7 @@ Network plan, and organization of my home network. I've designed my network with
 # LAN
 
 - Hostname: *home-ok-ro01p*
-
-[OpenVPN](https://github.com/OpenVPN/openvpn): Self-hosted VPN.
+ - [OpenVPN](https://github.com/OpenVPN/openvpn): Self-hosted VPN.
 
 ______________________________________________________________________________
 
