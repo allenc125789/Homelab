@@ -17,9 +17,6 @@ ______________________________________________________________________________
 
 - Hostname: *home-ok-hv01p*
   - [Proxmox](https://www.proxmox.com/en/): KVM based Debian hypervisor. 
-
-______________________________________________________________________________
-
 - Hostname: *home-ok-ro02p*
   - [OPNsense](https://opnsense.org/): Open source router software acting as a DHCP and DNS server.
 
