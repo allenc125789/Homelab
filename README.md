@@ -5,7 +5,7 @@
 Network plan, and organization of my home network. I've designed my network with 2 isolated segments, seperated by VLANs. One mostly containing Windows devices, and the other containing Linux devices. The goal of this design was to deploy Windows and Linux dominated networks, and expirement under them independintly without confliction.
 
 
-# LAN
+# LAN (192.168.0.1 - 9)
 
 - Hostname: *home-ok-ro01p*
   - [OpenVPN](https://github.com/OpenVPN/openvpn): Self-hosted VPN.
@@ -13,8 +13,7 @@ Network plan, and organization of my home network. I've designed my network with
 ______________________________________________________________________________
 
 
-## Linux VLAN
-(192.168.0.20 - 99)
+## Linux VLAN (192.168.0.20 - 99)
 
 - Hostname: *home-ok-hv01p*
   - [Proxmox](https://www.proxmox.com/en/): KVM based Debian hypervisor. 
@@ -43,7 +42,7 @@ Debian Desktop for personal use.
 
 ______________________________________________________________________________
 
-## Windows VLAN
+## Windows VLAN (192.168.0.100 - 149)
 
 home-ok-ws01p
 
