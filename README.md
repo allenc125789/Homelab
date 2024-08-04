@@ -7,7 +7,7 @@ Network plan, and organization of my home network. I've designed my network with
 
 # LAN: (192.168.0.1 - 9)
 
-- 1. Hostname: *home-ok-ro01p*
+- Hostname: *home-ok-ro01p*
   - [OpenVPN](https://github.com/OpenVPN/openvpn): Self-hosted VPN.
 
 ______________________________________________________________________________
@@ -15,15 +15,15 @@ ______________________________________________________________________________
 
 ## Linux VLAN: (192.168.0.10 - 99)
 
-- 1. Hostname: *home-ok-hv01p*
+- Hostname: *home-ok-hv01p*
   - Debian, running [Proxmox](https://www.proxmox.com/en/): KVM based Debian hypervisor.
-- 2. Hostname: *home-ok-ro02p*
+- Hostname: *home-ok-ro02p*
   - Debian, running [OPNsense](https://opnsense.org/): Open source router software acting as a DHCP and DNS server.
-- 3. Hostname: *home-ok-bw01p*
+- Hostname: *home-ok-bw01p*
   - Debian, running [Bitwarden](https://github.com/bitwarden/server): Self-hosted password manager and vault.
-4. Hostname: *home-ok-na01p*
+- Hostname: *home-ok-na01p*
   - Debian, running [TurtleNAS](https://github.com/allenc125789/TurtleNAS): My own application that i'm building, that acts as NAS software for Debian.
-5. Hostname: *home-ok-de01p*
+- Hostname: *home-ok-de01p*
   - Debian, Desktop for personal use.
 
 ______________________________________________________________________________
