@@ -8,7 +8,7 @@ ________________________________________________________________________________
 
 # LAN
 
-* home-ok-ro01p
+Hostname: *home-ok-ro01p*
 
 [OpenVPN](https://github.com/OpenVPN/openvpn): Self-hosted VPN.
 
@@ -17,31 +17,31 @@ ______________________________________________________________________________
 
 ## Linux VLAN
 
-* home-ok-hv01p
+Hostname: *home-ok-hv01p*
 
 [Proxmox](https://www.proxmox.com/en/): KVM based Debian hypervisor. 
 
 ______________________________________________________________________________
 
-home-ok-ro02p
+Hostname: *home-ok-ro02p*
 
 [OPNsense](https://opnsense.org/): Open source router software acting as a DHCP and DNS server.
 
 ______________________________________________________________________________
 
-home-ok-bw01p
+Hostname: *home-ok-bw01p*
 
 [Bitwarden](https://github.com/bitwarden/server): Self-hosted password manager and vault.
 
 ______________________________________________________________________________
 
-home-ok-na01p
+Hostname: *home-ok-na01p*
 
 [TurtleNAS](https://github.com/allenc125789/TurtleNAS): My own application that i'm building, that acts as NAS software for Debian.
 
 ______________________________________________________________________________
 
-home-ok-de01p
+Hostname: *home-ok-de01p*
 
 Debian Desktop for personal use.
 
