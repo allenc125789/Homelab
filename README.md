@@ -36,13 +36,13 @@ ______________________________________________________________________________
 
 ## VLAN 2, Windows (192.168.0.100 - 149)
 
-- home-ok-ws01p
+- Hostname: *home-ok-ws01p*
   - Windows Server, running Active Directory and DNS roles.
 >
-- home-ok-hv02p
+- Hostname: *home-ok-hv02p*
   - Windows Server Core, running Hyper-V.
 >
-- home-ok-de02p
+- Hostname: *home-ok-de02p*
   - Windows 11 Desktop, for general Administration
 >
 - Hostname: *home-ok-na03p*
