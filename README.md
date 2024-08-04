@@ -2,29 +2,30 @@
 
 **Description**
 
-Network plan, and organization of my home network. Recently introduced a new segment in the network
+Network plan, and organization of my home network. I've designed my network with 2 isolated segments, seperated by VLANs. One mostly containing Windows devices, and the other containing Linux devices. The goal of this design was to deploy Windows and Linux dominated networks, and expirement under them independintly without confliction.
 
 ______________________________________________________________________________________________________________________________________________________________________________
 
+# LAN
+home-ok-ro01p
+* [OpenVPN](https://github.com/OpenVPN/openvpn): Self-hosted VPN.
+
+
+# Linux
+
 ## 1a. Hosted Services & Software
 
-**Server Management**
-
-* [Bitwarden](https://github.com/bitwarden/server): A self-hosted password manager and vault.
 * [Proxmox](https://www.proxmox.com/en/): A KVM based Debian hypervisor. 
-* [Netbox](https://github.com/netbox-community/netbox): A Network documentation program. Allows the logging of IPs, Devices, and their status on the network.
-
-**File storage & Sharing**
-
-* [NetACBackup](https://github.com/allenc125789/NetACBackup.sh): My own BASH script for NAS based backup management and storage on Linux systems.
-
-**Networking**
 
 * [OPNsense](https://opnsense.org/): Open source router software acting as a DHCP and DNS server.
-* [OpenVPN](https://github.com/OpenVPN/openvpn): Self-hosted VPN.
+
+* [Bitwarden](https://github.com/bitwarden/server): A self-hosted password manager and vault.
+
+* [TurtleNAS](https://github.com/allenc125789/TurtleNAS): My own application that i'm building, that acts as NAS software for Debian.
+  
 * [FreeDNS](https://freedns.afraid.org): A third party DDNS service to track my home's dynamic public IP.
 
-Most of these services are self hosted and virtualized in a Proxmox environment. My system is like this for a few security based aspects: Self hosted services can reduce the risk of hacks and data-leaks while data is traversing to an off-site location, and possible bad actors from accessing your private files. Virtualized environments reduce cost of needing multiple systems for multiple platforms, and will also increase my overall security by isolation of individual services.
+Most of these services are self hosted and virtualized in a Proxmox environment. My system are like this for a few security based aspects: Self hosted services can reduce the risk of hacks and data-leaks while data is traversing to an off-site location, and possible bad actors from accessing your private files. Virtualized environments reduce cost of needing multiple systems for multiple platforms, and will also increase my overall security by isolation of individual services.
 
 My OpenVPN however, is run from my physical router ("home-ok-ro01p"). I experiemented running my own OpenVPN server, however I had trouble getting the configuration files syntaxed properly. The default configuration that came packaged in my physical router worked on first try. I continue to use this setup for convienience, but will be studying the file configuration that works so I can set up my own in the future.
 
@@ -44,9 +45,6 @@ All of my homelab's devices and VM's are listed here, and via the pictures below
 
 **Devices**
 
-My device list via netbox.
-
-![](https://github.com/allenc125789/Homelab/blob/main/img-files/Screenshot%20from%202023-10-23%2022-52-50.png)
 
 **Virtual Machines**
 
@@ -68,49 +66,5 @@ Designing my network was made extremley easy with Netbox. After determinging the
 
 **IP Ranges**
 
-Provided via netbox.
 
-![](https://github.com/allenc125789/Homelab/blob/main/img-files/Screenshot%20from%202023-10-23%2022-49-28.png)
-
-**IP Reservations**
-
-Provided via netbox.
-
-![](https://github.com/allenc125789/Homelab/blob/main/img-files/Screenshot%20from%202023-10-23%2022-51-57.png)
-
-**VLANS**
-
-Work in progress. Will update soon.
-
-**Monitoring**
-
-Work in progress. Will update soon.
-
-## 1d. Automation
-
-**The Linux Shell**
-
-Because most of my machines run linux, using it's built in schedueling systems made the process of automation very easy. I use the shell job schedueling tool `cron`, for it's easy one line commands.
-
-A `cron` example on my Bitwarden virtual machine (runs Debian for the OS):
-
-```
-SHELL=/bin/bash
-0 23 */2 * * rm -r /home/bitwarden/bwbackups/* && cp -r /home/bitwarden/bwdata /home/bitwarden/bwbackups && chown -R bitwarden:bitwarden /home/bitwarden/bwbackups
-```
-This code, in order: `SHELL=/bin/bash` Sets the shell for the cron job (default is SH, I want BASH for better functionality.), I then set the time frame for when to run the script `0 23 */2 * *`, which translates to "Every 2 days at 11pm", `rm -r /home/bitwarden/bwbackups/*` to remove old backup files, `cp -r /home/bitwarden/bwdata /home/bitwarden/bwbackups` to copy any new changes to the backup folder, and finally I set permissions with `chown -R bitwarden:bitwarden /home/bitwarden/bwbackups`, as the default permissions make it difficult for the non-root user to copy any meaningful data during my NAS's backup process.
-
-**My Script**
-
-I created a BASH script as a seperate project from my homelab, but has since become an essential tool in how I like to store data. What my script does is it uses standard shell commands from linux to create a UI that helps manage `rsync` in a streamlined manner to archive and encrypt data for multiple remote users/devices. It can be run without user interaction after its initial configuration. Combined with the pre mentioned `cron` tool, I have it automated on my NAS to backup my network every week, on Sunday at 1am. It's made my life adminstrating my network very easy and was a great learning experience!
-
-My script can be found in my github profile, and in the link [here](https://github.com/allenc125789/NetACBackup.sh/tree/main).
-
-# 2. What is my Fail-Safe?
-
-My Fail-Safe follows the 3-2-1 Backup prodecure. 3 backups, on 3 on seperate drives, with 1 off-site. Most of the work is done by my own BASH Script which copies, compresses, and encrypts all necessary data at a file level, which I can then distribute to seperate drives. 2 HDDs on my central server and a thumb-drive I occasionally update, kept in a secure location at my close family's house.
-
-This process let's me edit data without worries, and in the event of a natural disaster or possible data corruption, I have the thumbdrive at my family's house, which is located a city away.
-
-# 3. What comes next?
 
