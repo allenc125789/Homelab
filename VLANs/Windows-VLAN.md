@@ -16,3 +16,4 @@ Windows based segment of the network. These servers are administrated remotely b
 > *Virtual Machines --> home-ok-hv02p*
 - Hostname: *home-ok-na03p*
   - **Debian 12**: second server running my application, TurtleNAS.
+______________________________________________________________________________
