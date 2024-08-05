@@ -9,11 +9,11 @@ The goal of this design was to deploy Windows and Linux dominated networks, and 
 
 # LAN: (192.168.0.1 - 9)
 
-- Hostname: *home-ok-ro01p*
+- Hostname: `home-ok-ro01p`
   - Default routing tables and firewall.
   - [OpenVPN](https://github.com/OpenVPN/openvpn): Self-hosted VPN.
 >
-- Hostname: *home-ok-sw01p*
+- Hostname: `home-ok-sw01p`
   - Managed Switch, activated with port based VLANs.
   - [VLAN 1- Linux](https://github.com/allenc125789/Homelab/blob/main/VLANs/Linux-VLAN.md): Linux VLAN segment. Designed around Linux based technologies.
   - [VLAN 2- Windows](https://github.com/allenc125789/Homelab/blob/main/VLANs/Windows-VLAN.md): Windows VLAN segment. Designed around Windows based technologies.
