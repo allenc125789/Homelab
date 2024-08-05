@@ -17,8 +17,7 @@ The goal of this design was to deploy Windows and Linux dominated networks, and 
   - Managed Switch, activated with port based VLANs.
   - [VLAN 1- Linux](https://github.com/allenc125789/Homelab/blob/main/VLANs/Linux-VLAN.md): Linux VLAN segment. Designed around Linux based technologies.
   - [VLAN 2- Windows](https://github.com/allenc125789/Homelab/blob/main/VLANs/Windows-VLAN.md): Windows VLAN segment. Designed around Windows based technologies.
-
-
 ______________________________________________________________________________
 
+[!Network flowchart.](https://github.com/allenc125789/Homelab/blob/main/images/Network-FlowChart.png)
 
