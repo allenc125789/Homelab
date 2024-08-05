@@ -19,5 +19,5 @@ The goal of this design was to deploy Windows and Linux dominated networks, and 
   - [VLAN 2- Windows](https://github.com/allenc125789/Homelab/blob/main/VLANs/Windows-VLAN.md): Windows VLAN segment. Designed around Windows based technologies.
 ______________________________________________________________________________
 
-[!Network flowchart.](https://github.com/allenc125789/Homelab/blob/main/images/Network-FlowChart.png)
+![Network flowchart.](https://github.com/allenc125789/Homelab/blob/main/images/Network-FlowChart.png)
 
