@@ -9,7 +9,7 @@ The goal of this design was to deploy Windows and Linux dominated networks, and 
 
 # LAN: (192.168.0.1 - 9)
 
-Model: TP-Link | AX1500 Wi-Fi 6 Router
+- Model: TP-Link | AX1500 Wi-Fi 6 Router
 - Hostname: `home-ok-ro01p`
   - Default routing tables and firewall.
   - [OpenVPN](https://github.com/OpenVPN/openvpn): Self-hosted VPN.
