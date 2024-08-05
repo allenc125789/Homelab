@@ -1,7 +1,7 @@
 
 ## Description
 
-Windows based segment of the network. These servers are administrated remotely by using the **Server Manager** and **Admin Center** via the domain controller, *home-ok-ws01p* on a personally created domain admin account. All computers (minus the one Linux Virtual Machine) on the network are apart of the turtlenas.com domain.
+Windows based segment of the network. These servers are administrated remotely by using the **Server Manager** and **Admin Center** via the domain controller, *home-ok-ws01p* on a personally created domain admin account. All computers (minus the one Linux Virtual Machine) on the network are connected to the turtlenas.com domain.
 
 ## VLAN 2, Windows (192.168.0.100 - 149)
 
