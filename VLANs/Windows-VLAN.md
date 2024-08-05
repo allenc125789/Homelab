@@ -18,4 +18,4 @@ Windows based segment of the network. These servers are administrated remotely b
   - **Debian 12**: second server running my a web server with my application, TurtleNAS, for external access by guests with allowed access.
 ______________________________________________________________________________
 
-[Return to Homelab mainpage.](https://github.com/allenc125789/Homelab)
+[Return to Homelab mainpage.](https://github.com/allenc125789/Homelab#homelab)
