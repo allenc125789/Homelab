@@ -14,6 +14,7 @@ The goal of this design was to deploy Windows and Linux dominated networks, and 
   - Default routing tables and firewall.
   - [OpenVPN](https://github.com/OpenVPN/openvpn): Self-hosted VPN.
 >
+- Model: GS105Ev2 | 5-Port Gigabit Ethernet Smart Managed Plus Switch
 - Hostname: `home-ok-sw01p`
   - Managed Switch, activated with port based VLANs.
     - [🐧 VLAN 1- Linux](https://github.com/allenc125789/Homelab/blob/main/VLANs/Linux-VLAN.md#description): Linux VLAN segment. Designed around Linux based technologies. This VLAN is mostly dedicated to personal use, and development.
