@@ -24,4 +24,4 @@ Linux based segment of the network. These servers are administrated remotely by 
 >
 ______________________________________________________________________________
 
-[Return to Homelab mainpage.](https://github.com/allenc125789/Homelab)
+[Return to Homelab mainpage.](https://github.com/allenc125789/Homelab#homelab)
