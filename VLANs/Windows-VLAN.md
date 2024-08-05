@@ -10,7 +10,7 @@ ______________________________________________________________________________
   - **Windows Server 2016**: running Windows Admin Center, Active Directory and DNS roles.
 >
 - Hostname: *home-ok-de02p*
-  - **Windows 11 (Desktop)**: for general Administration
+  - **Windows 11 (Desktop)**: for general Administration.
 >
 - Hostname: *home-ok-hv02p*
   - **Windows Server Core 2016**: Windows Admin Center and running Hyper-V.
