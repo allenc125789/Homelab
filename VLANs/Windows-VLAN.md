@@ -8,6 +8,6 @@
 >
 - Hostname: *home-ok-hv02p*
   - Windows Server Core, running Hyper-V.
-> Virtual Machines
+> *Virtual Machines -> home-ok-hv02p*
 - Hostname: *home-ok-na03p*
   - Debian, second server running my application, TurtleNAS.
