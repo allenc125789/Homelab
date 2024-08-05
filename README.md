@@ -11,6 +11,9 @@ The goal of this design was to deploy Windows and Linux dominated networks, and 
 
 - Hostname: *home-ok-ro01p*
   - [OpenVPN](https://github.com/OpenVPN/openvpn): Self-hosted VPN.
+>
+- Hostname: *home-ok-sw01p*
+  - Managed Switch, activated with port based VLANs.
 
 ______________________________________________________________________________
 
