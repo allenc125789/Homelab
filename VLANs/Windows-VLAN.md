@@ -11,9 +11,11 @@ Windows based segment of the network. These servers are administrated remotely b
 - Hostname: `home-ok-de02p`
   - **Windows 11 (Desktop)**: for general Administration.
 >
+- Model: Lenovo | ThinkPad T510
 - Hostname: `home-ok-hv02p`
   - **Windows Server Core 2016**: Windows Admin Center and running Hyper-V.
 > *Virtual Machines --> home-ok-hv02p*
+- Model: Lenovo | X220 Tablet Laptop
 - Hostname: `home-ok-na03p`
   - **Debian 12**: second server running my a web server with my application, TurtleNAS, for external access by guests with allowed access.
 ______________________________________________________________________________
