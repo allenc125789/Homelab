@@ -15,8 +15,8 @@ The goal of this design was to deploy Windows and Linux dominated networks, and 
 >
 - Hostname: `home-ok-sw01p`
   - Managed Switch, activated with port based VLANs.
-    - [VLAN 1- Linux](https://github.com/allenc125789/Homelab/blob/main/VLANs/Linux-VLAN.md#description): Linux VLAN segment. Designed around Linux based technologies. This VLAN is mostly dedicated to personal use, and development.
-    - [VLAN 2- Windows](https://github.com/allenc125789/Homelab/blob/main/VLANs/Windows-VLAN.md#description): Windows VLAN segment. Designed around Windows based technologies. This VLAN is used as a testlab for simulating a Windows work environment, with a public facing webserver running within a Hyper-V server.
+    - [🐧 VLAN 1- Linux](https://github.com/allenc125789/Homelab/blob/main/VLANs/Linux-VLAN.md#description): Linux VLAN segment. Designed around Linux based technologies. This VLAN is mostly dedicated to personal use, and development.
+    - [🪟 VLAN 2- Windows](https://github.com/allenc125789/Homelab/blob/main/VLANs/Windows-VLAN.md#description): Windows VLAN segment. Designed around Windows based technologies. This VLAN is used as a testlab for simulating a Windows work environment, with a public facing webserver running within a Hyper-V server.
 ______________________________________________________________________________
 
 # Flow-Chart of my network
