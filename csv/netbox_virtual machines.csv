@@ -1,6 +1,0 @@
-Name,Status,Site,Cluster,Platform,Role,Description,IP Address
-home-ok-bw01p,Active,home-ok-tulsa01,home-ok-hv01p,Debian-Stable-12,Server-Production,BitWarden,192.168.0.21/26
-home-ok-de01p,Active,home-ok-tulsa01,home-ok-hv01p,Debian-Stable-12,Server-Production,AllenC's Desktop Environmet,192.168.0.25/26
-home-ok-na01p,Active,home-ok-tulsa01,home-ok-hv01p,Debian-Stable-12,Server-Production,(NAS) Network Access Server,192.168.0.22/26
-home-ok-nb01p,Active,home-ok-tulsa01,home-ok-hv01p,Debian-Stable-12,Server-Production,NetBox,192.168.0.23/26
-home-ok-ro02p,Active,home-ok-tulsa01,home-ok-hv01p,OPNsense-23,Router-Core,(DHCP) (DNS) OPNsense,192.168.0.2/26

@@ -1,4 +1,0 @@
-Start address,End address,Size,Utilization,VRF,Status,Description
-192.168.0.1/26,192.168.0.10/26,10,30%,Global,Active,Network Peripherals
-192.168.0.11/26,192.168.0.40/26,30,20%,Global,Active,Servers & Static Devices
-192.168.0.41/26,192.168.0.60/26,20,100%,Global,Active,DHCP Devices

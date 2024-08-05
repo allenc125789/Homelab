@@ -1,6 +1,0 @@
-Name,Status,Site,Location,Role,Type,Description,IP Address
-home-ok-hv01p,Active,home-ok-tulsa01,Living-Room,Server-Production,GA-78LMT-S2,Proxmox Hypervisor,192.168.0.20/26
-home-ok-mo01p,Active,home-ok-tulsa01,Living-Room,Modem,Cox-Panoramic-Router/Modem,Cox Router/Modem. Bridged Mode Enabled.,
-home-ok-ro01p,Active,home-ok-tulsa01,Living-Room,Router-Edge,AX1500,Hardware TP-Link Router,192.168.0.1/26
-home-ok-sc01p,Active,home-ok-tulsa01,Driveway-Car-Front,Media-SecCamera,Raspberry-Pi-3-B+(plus),Single Board Computer. ARM cpu,192.168.0.11/26
-home-ok-sw01p,Active,home-ok-tulsa01,Living-Room,Switch-Access,GS105E,8-port Managed Switch,192.168.0.5/26
