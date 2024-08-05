@@ -1,3 +1,8 @@
+
+## Description
+
+Linux based segment of the network. These servers are administrated remotely by accessing them through Proxmox on *home-ok-hv01p*, their specific webpages, or through SSH.
+
 ## VLAN 1, Linux: (192.168.0.10 - 99)
 
 - Hostname: *home-xx-pd01p*
