@@ -28,5 +28,5 @@ ______________________________________________________________________________
 
 # Recent Additions
 
-A few months ago, my uncle gifted me a `Dell PowerEdge T310` Server from an old work environment he was a Technician at. I was able to use this plus some old thinkpad laptop's and a managed switch I had to construct the Window's environment segment on my home network. This recent addition allowed me to study a Enterprise level Dell server, and introduce Windows OS domain and network tools to a network of computers without confliction from my services run on Linux with the introduction of VLANs.
+A few months ago, my uncle gifted me a `Dell PowerEdge T310` Server from an old work environment he was a Technician at. I was able to use this plus some old thinkpad laptops and a managed switch I had to construct the Window's environment segment on my home network. This recent addition allowed me to study a Enterprise level Dell server, and introduce Windows OS domain and network tools to a network of computers without confliction from my services run on Linux with the introduction of VLANs.
 ______________________________________________________________________________
