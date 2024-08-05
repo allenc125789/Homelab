@@ -3,7 +3,7 @@
 
 Linux based segment of the network. These servers are administrated remotely by accessing them through the Hyper-Visor Proxmox on `home-ok-hv01p`, their application specific webpages, or through SSH.
 
-## VLAN 1, Linux: (192.168.0.10 - 99)
+## 🐧 VLAN 1, Linux: (192.168.0.10 - 99)
 
 - Model: Lenovo | ThinkPad L14 Gen 3
 - Hostname: `home-xx-pd01p`
