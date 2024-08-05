@@ -22,4 +22,9 @@ ______________________________________________________________________________
 # Flow-Chart of my network
 
 ![Network flowchart.](https://github.com/allenc125789/Homelab/blob/main/images/Network-FlowChart.png)
+______________________________________________________________________________
 
+# Recent Additions
+
+A few months ago, my uncle gifted me several old Server's from an old work environment he was a Technician at.
+______________________________________________________________________________
