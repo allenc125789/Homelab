@@ -10,6 +10,7 @@ The goal of this design was to deploy Windows and Linux dominated networks, and 
 # LAN: (192.168.0.1 - 9)
 
 - Hostname: *home-ok-ro01p*
+  - Default routing tables and firewall.
   - [OpenVPN](https://github.com/OpenVPN/openvpn): Self-hosted VPN.
 >
 - Hostname: *home-ok-sw01p*
