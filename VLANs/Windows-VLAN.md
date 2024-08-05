@@ -2,7 +2,7 @@
 
 ## Description
 
-Windows based segment of the network. These servers are administrated by using the Server Manager and Admin Center via the domain controller, home-ok-ws01p on a personally created domain admin account.
+Windows based segment of the network. These servers are administrated by using the Server Manager and Admin Center via the domain controller, *home-ok-ws01p* on a personally created domain admin account.
 
 ______________________________________________________________________________
 
