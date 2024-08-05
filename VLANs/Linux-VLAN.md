@@ -21,5 +21,8 @@ Linux based segment of the network. These servers are administrated remotely by 
 >
 - Hostname: `home-ok-de01p`
   - **Debian 12**: Desktop for personal use.
+ 
+[Return to Homelab mainpage.](https://github.com/allenc125789/Homelab)
+
 >
 ______________________________________________________________________________
