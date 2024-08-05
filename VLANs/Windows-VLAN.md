@@ -1,10 +1,9 @@
-## VLAN 2, Windows (192.168.0.100 - 149)
 
 ## Description
 
 Windows based segment of the network. These servers are administrated remotely by using the **Server Manager** and **Admin Center** via the domain controller, *home-ok-ws01p* on a personally created domain admin account.
 
-______________________________________________________________________________
+## VLAN 2, Windows (192.168.0.100 - 149)
 
 - Hostname: *home-ok-ws01p*
   - **Windows Server 2016**: running Windows Admin Center, Active Directory and DNS roles.
