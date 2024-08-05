@@ -7,7 +7,7 @@ Windows based segment of the network. These servers are administrated remotely b
 ______________________________________________________________________________
 
 - Hostname: *home-ok-ws01p*
-  - Windows Server 2016: running Windows Admin Center, Active Directory and DNS roles.
+  - **Windows Server 2016**: running Windows Admin Center, Active Directory and DNS roles.
 >
 - Hostname: *home-ok-de02p*
   - Windows 11 Desktop: for general Administration
