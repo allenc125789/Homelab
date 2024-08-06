@@ -7,7 +7,7 @@ Planning and organization of my home network. I've designed my network with 2 se
 The goal of this design was to deploy Windows and Linux dominated networks, and expirement under them independintly without confliction.
 
 
-# LAN: (192.168.0.1 - 9)
+# LAN: (192.168.0.1 - 9)/24
 
 - Model: TP-Link | AX1500 Wi-Fi 6 Router
 - Hostname: `home-ok-ro01p`
