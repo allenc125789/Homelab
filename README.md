@@ -20,7 +20,7 @@ Contents include planning and organization of my home network. I've designed my 
 - Model: TP-Link | GS105Ev2 - 5-Port Gigabit Ethernet Smart Managed Plus Switch
 - Hostname: `home-ok-sw01p`
   - Managed Switch, activated with port based VLANs.
-    - [🐧 VLAN 1- Linux](https://github.com/allenc125789/Homelab/blob/main/VLANs/Linux-VLAN.md#description): Linux VLAN segment. Designed around Linux based technologies. This VLAN is mostly dedicated to personal use, and development.
+    - [🐧 VLAN 1- Linux](https://github.com/allenc125789/Homelab/blob/main/VLANs/Linux-VLAN.md#description): Linux VLAN segment. Designed around Linux based technologies. This VLAN is mostly dedicated to personal use and development.
     - [🪟 VLAN 2- Windows](https://github.com/allenc125789/Homelab/blob/main/VLANs/Windows-VLAN.md#description): Windows VLAN segment. Designed around Windows based technologies. This VLAN is used as a testlab for simulating a Windows work environment, with a public facing webserver running within a Hyper-V server.
 ______________________________________________________________________________
 
