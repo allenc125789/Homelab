@@ -12,7 +12,7 @@ Contents include planning and organization of my home network. I've designed my 
 - Hostname: `home-ok-ro01p`
   - Default routing tables and firewall.
   - [OpenVPN](https://github.com/OpenVPN/openvpn): Self-hosted VPN.
-  - Ports Open ⚠️
+  - ⚠️ Ports Open ⚠️
     - 443 --> `192.168.0.121/home-ok-na03p`
     - 1149 --> `localhost`
 >
