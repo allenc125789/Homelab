@@ -9,7 +9,9 @@ Contents include planning and organization of my home network. I've designed my 
 
 # LAN: (192.168.0.1 - 9)/24
 
-*Server Naming Scheme: Four Letters(Buisness/Locaion); 2 Letters(State); 2 Letters, 2 Numbers, 1 Letter(Service, Instance, Type:(P)roduction/(D)evelopment/(T)esting)*
+*Server Naming Scheme:
+
+Four Letters(Buisness/Locaion); 2 Letters(State); 2 Letters, 2 Numbers, 1 Letter(Service, Instance, Type:(P)roduction/(D)evelopment/(T)esting)*
 
 - Model: TP-Link | AX1500 Wi-Fi 6 Router
 - Hostname: `home-ok-ro01p`
