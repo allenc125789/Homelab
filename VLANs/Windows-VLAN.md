@@ -24,5 +24,6 @@ ______________________________________________________________________________
 ## Gateway View
 ![Image of Windows Admin Center on home-ok-ws01p](https://github.com/allenc125789/Homelab/blob/main/images/Screenshot%20from%202024-08-05%2022-10-41.png)
 
+______________________________________________________________________________
 
 [Return to Homelab mainpage.](https://github.com/allenc125789/Homelab#lan-19216801---9)
