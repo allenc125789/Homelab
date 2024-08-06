@@ -27,4 +27,10 @@ Linux based segment of the network. These servers are administrated remotely by 
 >
 ______________________________________________________________________________
 
+Gateway View
+
+![Image of Proxmox on home-ok-hv01p](https://github.com/allenc125789/Homelab/blob/main/images/Screenshot%20from%202024-08-05%2022-05-49.png)
+
+______________________________________________________________________________
+
 [Return to Homelab mainpage.](https://github.com/allenc125789/Homelab#lan-19216801---9)
