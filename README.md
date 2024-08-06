@@ -9,6 +9,9 @@ The goal of this design was to deploy Windows and Linux dominated networks, and 
 
 # LAN: (192.168.0.1 - 9)/24
 
+My LAN is a /24 subnet, and has 256 address for use. The first 9 are reserved for physical routing devices and switches for the rest of the network. The rest will be seperated into VLANS.
+______________________________________________________________________________
+
 - Model: TP-Link | AX1500 Wi-Fi 6 Router
 - Hostname: `home-ok-ro01p`
   - Default routing tables and firewall.
