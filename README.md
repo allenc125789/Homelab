@@ -21,7 +21,7 @@ Contents include planning and organization of my home network. I've designed my 
     - [🪟 VLAN-2 (Windows)](https://github.com/allenc125789/Homelab/blob/main/VLANs/Windows-VLAN.md#description): Windows VLAN segment. Designed around Windows based technologies. This VLAN is used as a testlab for simulating a Windows work environment controlled by Active Directory, with a public facing webserver running within Hyper-V.
 ______________________________________________________________________________
 
-# Flow-Chart of my network
+# Flow-Chart of my Network
 
 ![Network flowchart.](https://github.com/allenc125789/Homelab/blob/main/images/Network-FlowChart.png)
 ______________________________________________________________________________
