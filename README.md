@@ -2,11 +2,13 @@
 
 **Description**
 
-Planning and organization of my home network. I've designed my network with 2 segments isolated by VLANs. One mostly containing Windows devices and the other containing Linux devices.
-
 The goal of this design was to deploy Windows and Linux dominated networks, and expirement under them independintly without confliction.
 
-My LAN is a /24 subnet, and has 256 address for use. The first 9 are reserved for physical routing devices and switches for the rest of the network. The rest will be seperated into VLANS.
+
+Contents include planning and organization of my home network. I've designed my network with 2 segments isolated by VLANs. One mostly containing Windows devices and the other containing Linux devices. My LAN is a /24 subnet, and has 256 address for use. The first 9 are reserved for physical routing devices and switches for the rest of the network. The rest will be seperated into the VLANS.
+
+
+
 
 # LAN: (192.168.0.1 - 9)/24
 
