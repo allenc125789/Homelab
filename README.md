@@ -4,7 +4,7 @@
 
 The goal of this design was to deploy Windows and Linux dominated networks, and expirement under them independently without confliction.
 
-Contents include planning and organization of my home network. I've designed my network with 2 segments isolated by VLANs. One mostly containing Windows devices and the other containing Linux devices. My LAN is a /24 subnet, and has 254 IP address for use. The first 9 addresses are reserved for physical core routing devices and switches. The rest of the addresses will be split into the VLANS.
+Contents include planning and organization of my home network. I've designed my network with 2 segments isolated by VLANs. One mostly containing Windows devices and the other containing Linux devices. My LAN is a /24 subnet, and has 254 IP address for use. The first 9 addresses are reserved for physical core routing devices and switches. The rest of the addresses will be split within VLANS.
 
 # LAN: (192.168.0.1 - 9)/24
 
