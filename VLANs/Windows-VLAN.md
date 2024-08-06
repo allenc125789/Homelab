@@ -22,6 +22,7 @@ Windows based segment of the network. These servers are administrated remotely b
 ______________________________________________________________________________
 
 ## Gateway View
+Admin Center
 ![Image of Windows Admin Center on home-ok-ws01p](https://github.com/allenc125789/Homelab/blob/main/images/Screenshot%20from%202024-08-05%2022-10-41.png)
 
 ______________________________________________________________________________
