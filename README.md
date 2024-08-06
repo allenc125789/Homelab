@@ -7,10 +7,9 @@ The goal of this design ([Visual Here](https://github.com/allenc125789/Homelab#f
 
 Contents include planning and organization of my home network. I've designed my network with 2 segments isolated by VLANs. One mostly containing Windows devices and the other containing Linux devices. My LAN is a /24 subnet, and has 256 IP address for use. The first 9 addresses are reserved for physical routing devices and switches for the rest of the network. The rest will be seperated into the VLANS.
 
-
-
-
 # LAN: (192.168.0.1 - 9)/24
+
+*Server Naming Scheme: Four Letters(Buisness/Locaion); 2 Letters(State); 2 Letters, 2 Numbers, 1 Letter(Service, Instance, Type:(P)roduction/(D)evelopment/(T)esting)*
 
 - Model: TP-Link | AX1500 Wi-Fi 6 Router
 - Hostname: `home-ok-ro01p`
