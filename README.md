@@ -20,7 +20,7 @@ Contents include planning and organization of my home network. I've designed my 
 - Hostname: `home-ok-sw01p`
   - Managed Switch, activated with port based VLANs.
     - [🐧 VLAN 1, (Linux)](https://github.com/allenc125789/Homelab/blob/main/VLANs/Linux-VLAN.md#description): *Click to see the Linux VLAN segment*. Designed around Linux based technologies. This VLAN is mostly dedicated to personal use and development.
-    - [🪟 VLAN 2, (Windows)](https://github.com/allenc125789/Homelab/blob/main/VLANs/Windows-VLAN.md#description): *Click to see the Windows VLAN segment*. This VLAN is used as a testlab for simulating a Windows work environment controlled by Active Directory, with a public facing webserver running within Hyper-V.
+    - [🪟 VLAN 2, (Windows)](https://github.com/allenc125789/Homelab/blob/main/VLANs/Windows-VLAN.md#description): *Click to see the Windows VLAN segment*. This VLAN is used as a testlab for simulating a Windows work domain environment controlled by Active Directory, with a public facing webserver running within Hyper-V.
 ______________________________________________________________________________
 
 # Network Map
