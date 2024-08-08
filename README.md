@@ -13,8 +13,8 @@ Contents include planning and organization of my home network. I've designed my 
   - Default routing tables and firewall.
   - [OpenVPN](https://github.com/OpenVPN/openvpn): Self-hosted VPN.
   - ⚠️ Ports Open ⚠️
-    - ⤷ 443 --> `192.168.0.121/home-ok-na03p` (HTTPS)
-    - ⤷ 1149 --> `localhost` (OpenVPN)
+    - 443 --> `192.168.0.121/home-ok-na03p` (HTTPS)
+    - 1149 --> `localhost` (OpenVPN)
 >
 - Model: TP-Link | GS105Ev2 - 5-Port Gigabit Ethernet Smart Managed Plus Switch
 - Hostname: `home-ok-sw01p`
