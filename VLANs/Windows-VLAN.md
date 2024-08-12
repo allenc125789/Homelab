@@ -5,6 +5,7 @@ Windows based segment of the network. These servers are administrated remotely b
 
 ## 🪟 VLAN 2, Windows (192.168.0.100 - 149)/24
 
+> *Physical Hosts*
 - Model: Dell | PowerEdge T310
 - Hostname: `home-ok-ws01p`
   - **Windows Server 2016**: Gateway for other Windows computers on the domain. running Windows Admin Center, Active Directory and DNS roles.
