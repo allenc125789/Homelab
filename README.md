@@ -8,6 +8,7 @@ Contents include planning and organization of my home network. I've designed my 
 
 # LAN: (192.168.0.1 - 9)/24
 
+> *Physical Hosts*
 - Model: TP-Link | AX1500 Wi-Fi 6 Router
 - Hostname: `home-ok-ro01p`
   - Default routing tables and firewall.
