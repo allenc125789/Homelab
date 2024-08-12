@@ -5,6 +5,7 @@ Linux based segment of the network. These servers are administrated remotely by 
 
 ## 🐧 VLAN 1, Linux: (192.168.0.10 - 99)/24
 
+> *Physical Hosts*
 - Model: Lenovo | ThinkPad L14 Gen 3
 - Hostname: `home-xx-pd01p`
   - **Debian 12**: Portable laptop, for basic web-browsing, work and administration.
