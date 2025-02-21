@@ -20,7 +20,7 @@ Contents include planning and organization of my home network. I've designed my 
 - Model: TP-Link | GS105Ev2 - 5-Port Gigabit Ethernet Smart Managed Plus Switch
 - Hostname: `home-ok-sw01p`
   - Managed Switch.
-    - **⤷** [🐧(Linux)](https://github.com/allenc125789/Homelab/blob/main/VLANs/Linux-VLAN.md#description) 
+    - **⤷** [🐧Linux Server](https://github.com/allenc125789/Homelab/blob/main/VLANs/Linux-VLAN.md#description) 
 ______________________________________________________________________________
 
 # Network Map
