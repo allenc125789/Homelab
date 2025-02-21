@@ -6,7 +6,7 @@ The goal of this design was to deploy Windows and Linux dominated networks, and 
 
 Contents include planning and organization of my home network. I've designed my network with 2 segments isolated by VLANs. One mostly containing Windows devices and the other containing Linux devices. My LAN is a /24 subnet, and has 254 IP address for use. The first 9 addresses are reserved for physical core routing devices and switches. The rest of the addresses will be split within VLANS.
 
-# LAN: (192.168.0.1 - 9)/24
+# LAN: 192.168.0.1/24
 
 > *Physical Hosts*
 - Model: TP-Link | AX1500 Wi-Fi 6 Router
