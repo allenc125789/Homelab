@@ -20,13 +20,13 @@ Linux based segment of the network. These servers are administrated remotely by 
   - **OS:** Debian 12, running [TurtleNAS](https://github.com/allenc125789/TurtleNAS): Development server for an application that i'm building. It's design is to act as NAS software for Debian.
 >
 - Hostname: `home-ok-na01p`
-  - **OS:** Debian 12, running [TurtleNAS](https://github.com/allenc125789/TurtleNAS): Production server for my application TurtleNAS. It works as a NAS for my Portable Devices.
+  - **OS:** Debian 12, running [TurtleNAS](https://github.com/allenc125789/TurtleNAS): Production server for my application TurtleNAS. NAS for my portable devices.
 >
 - Hostname: `home-ok-ws01d`
-  - **OS:** Debian 12, running [TurtleNAS](https://github.com/allenc125789/TurtleNAS): Development server for my webserver. It's hosting my blog for my journey into Electrical Engineering.
+  - **OS:** Debian 12, running [Nginx](https://nginx.org/en/): Development server for my website(blog).
 >
 - Hostname: `home-ok-ws01p`
-  - **OS:** Debian 12, running [TurtleNAS](https://github.com/allenc125789/TurtleNAS): Production server for my webserver(blog).
+  - **OS:** Debian 12, running [Nginx](https://nginx.org/en/): Production server for my webssite(blog).
 >
 - Hostname: `home-ok-de01p`
   - **OS:** Debian 12, running as a Desktop for personal use.
