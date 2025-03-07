@@ -30,7 +30,7 @@ ______________________________________________________________________________
 
 ## Gateway View
 
-![Image of Proxmox on home-ok-hv01p](https://github.com/allenc125789/Homelab/blob/main/images/Screenshot%20from%202024-08-05%2022-05-49.png)
+![Image of Proxmox on home-ok-hv01p](https://github.com/allenc125789/Homelab/blob/main/images/Screenshot%20from%202025-03-07%2013-47-34.png)
 
 ______________________________________________________________________________
 
