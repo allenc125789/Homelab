@@ -13,7 +13,7 @@ Linux based segment of the network. These servers are administrated remotely by 
 - Model: Gigabyte Technology Co., Ltd. | GA-78LMT-S2
 - Hostname: `home-ok-hv01p`
   - **Debian 12**: running [Proxmox](https://www.proxmox.com/en/): KVM based Debian hypervisor.
-> *Virtual Machines --> home-ok-hv01p*
+> *Virtual Machines*
 - Hostname: `home-ok-bw01p`
   - **Debian 12**: running [Bitwarden](https://github.com/bitwarden/server): Self-hosted password manager and vault.
 >
@@ -35,8 +35,7 @@ Linux based segment of the network. These servers are administrated remotely by 
 - Hostname: `home-ok-de01p`
   - **Debian 12**: Desktop for personal use.
 >
-______________________________________________________________________________
-
+> *Disks*
 - Hotswap1: `1TB HDD`
   - Storage for VM flies.
 >
