@@ -5,13 +5,9 @@ Linux based segment of the network. These servers are administrated remotely by 
 
 ## 🐧 VLAN 1, Linux: (192.168.0.10 - 99)/24
 
-> *Physical Hosts*
-- Model: Lenovo | ThinkPad L14 Gen 3
-- Hostname: `home-xx-pd01p`
-  - **Debian 12**: Portable laptop, for basic web-browsing, work and administration.
->
-- Model: Gigabyte Technology Co., Ltd. | GA-78LMT-S2
+> *Physical Host*
 - Hostname: `home-ok-hv01p`
+- Model: Gigabyte Technology Co., Ltd. | GA-78LMT-S2
   - **Debian 12**: running [Proxmox](https://www.proxmox.com/en/): KVM based Debian hypervisor.
 > *Virtual Machines*
 - Hostname: `home-ok-bw01p`
