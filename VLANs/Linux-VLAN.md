@@ -26,7 +26,7 @@ Linux based segment of the network. These servers are administrated remotely by 
   - **OS:** Debian 12, running [Nginx](https://nginx.org/en/): Development server for my website(blog).
 >
 - Hostname: `home-ok-ws01p`
-  - **OS:** Debian 12, running [Nginx](https://nginx.org/en/): Production server for my webssite(blog).
+  - **OS:** Debian 12, running [Nginx](https://nginx.org/en/): Production server for my website(blog).
 >
 - Hostname: `home-ok-de01p`
   - **OS:** Debian 12, running as a Desktop for personal use.
