@@ -23,7 +23,7 @@ ______________________________________________________________________________
 
 # Network Map
 
-![Network Map.](https://github.com/allenc125789/Homelab/blob/main/images/Network-FlowChart.png)
+![Network Map.](https://github.com/allenc125789/Homelab/blob/main/images/Network-FlowChart.pn)
 ______________________________________________________________________________
 
 # Recent Additions
